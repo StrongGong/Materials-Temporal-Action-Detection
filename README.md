@@ -14,6 +14,10 @@
 - (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
+# Journal Papers:
+- **Temporal Action Localization using Long Short-Term Dependency** (TMM19)
+- **SRG: Snippet Relatedness-based Temporal Action Proposal Generator** (TCSVT19)
+
 # Papers: weakly temporal action detection
 - (BaSNet) **Background Suppression Network for Weakly-supervised Temporal Action Localization** (AAAI20)[CODE.pytorch](https://github.com/Pilhyeon/BaSNet-pytorch)
 - (LPAT) **LPAT: Learning to Predict Adaptive Threshold for Weakly-supervised Temporal Action Localization** (arxiv 2019)
