@@ -14,7 +14,7 @@
 - (MGG) **Multi-granularity Generator for Temporal Action Proposal** (CVPR 2019)
 - (GTAN) **Gaussian Temporal Awareness Networks for Action Localization** (CVPR 2019)
 
-# Journal Papers:
+# Journal Papers: temporal action proposals & detection
 - **Temporal Action Localization using Long Short-Term Dependency** (TMM19)
 - **SRG: Snippet Relatedness-based Temporal Action Proposal Generator** (TCSVT19)
 
